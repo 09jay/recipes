@@ -1,6 +1,8 @@
 # Ingredients
 - avocado
 - salt
-- love
+- peper
+- lime
+- onion
 # Instructions
 
